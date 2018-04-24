@@ -1,4 +1,7 @@
 # NEW-YORK-RUSH
-In our game our main player is a FBI agent which is dressed as a businessman so he would be able to blend in.He needs to stay undercover and is assigned to reach a specific area in order to save the citizens from a national threat.They are many challenges.You have until 3:30 to reach your specific area to save the citizens .Remember every level is going to get more difficult and can’t be too low on health or the game is over,be careful and good luck!
-
-<img src= "NEW-YORK-RUSH/Pt.PNG">
+<h2>Gamers22<h/2>
+<img src ="                      ">
+<p>This game is a action game where you will use the spacebar to make the FBI character jump over the traffic cones and the left/right arrowkeys to guide the agent<p/>
+<h2> New York Rush </h2>
+<img src ="                                   ">
+<p> The FBI agent needs to go through the obstances to save peoplefrom a national threat and to complete his mission.If you get over a certain amount of traffic cones in time you have succeeded, if not then you wouldve failed your mission</p>
