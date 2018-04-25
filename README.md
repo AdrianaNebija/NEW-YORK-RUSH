@@ -1,6 +1,6 @@
 # NEW-YORK-RUSH
 <h2>Gamers22<h/2>
-<img src =" https://github.com/AdrianaNebija/NEW-YORK-RUSH/blob/master/Pt.PNG " width=300  height=350>
+<img src =" https://raw.githubusercontent.com/AdrianaNebija/NEW-YORK-RUSH/master/Pt.PNG " width=300  height=350>
 <p>New York Rush is a action game where you will use the spacebar to make the FBI character jump over the traffic cones and to use the left/right arrowkeys to guide the agent<p/>
 <h2> New York Rush </h2>
 <img src =" https://github.com/AdrianaNebija/NEW-YORK-RUSH/blob/master/pt3.PNG   " width=300   height=350>
